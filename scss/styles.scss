@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#thing {
+  // width: 1119px;
+  // height: 600px;
+  width: 90%;
+  top: 50%;
+  position: absolute;
+  left: 5%;
+  height: auto;
+  // original dimesions: 1136px x 640px
+  background-image: url(../img/my_sprite_sheet.jpg);
+  background-position: 0 0;
+  background-size: 1136px 6400px;
+  background-repeat: no-repeat;
+
+}
