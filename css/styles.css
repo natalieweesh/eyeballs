@@ -1,0 +1,19 @@
+/* line 1, ../scss/styles.scss */
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* line 7, ../scss/styles.scss */
+#thing {
+  width: 90%;
+  top: 50%;
+  position: absolute;
+  left: 5%;
+  height: auto;
+  background-image: url(../img/my_sprite_sheet.jpg);
+  background-position: 0 0;
+  background-size: 1136px 6400px;
+  background-repeat: no-repeat;
+}
